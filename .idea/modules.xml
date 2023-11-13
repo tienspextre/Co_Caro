@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ClientCaro/ClientCaro.iml" filepath="$PROJECT_DIR$/ClientCaro/ClientCaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ServerCaro/ServerCaro.iml" filepath="$PROJECT_DIR$/ServerCaro/ServerCaro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/lap-trinh-mang-develop.iml" filepath="$PROJECT_DIR$/.idea/lap-trinh-mang-develop.iml" />
+    </modules>
+  </component>
+</project>
